@@ -3298,7 +3298,7 @@ var app = (function () {
     			attr_dev(h31, "id", "resume");
     			attr_dev(h31, "class", "svelte-1h0tztb");
     			add_location(h31, file$3, 120, 6, 2530);
-    			attr_dev(a1, "href", "/Bhavesh_Resume.pdf");
+    			attr_dev(a1, "href", "./Bhavesh_Resume.pdf");
     			attr_dev(a1, "class", "svelte-1h0tztb");
     			add_location(a1, file$3, 112, 4, 2244);
     			attr_dev(div, "id", "contact_wrapper");
