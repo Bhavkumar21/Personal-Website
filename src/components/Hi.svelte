@@ -92,14 +92,14 @@
 </style>
 
 <main>
-  <h1>Hi! I'm Philip Nilsson</h1>
+  <h1>Hi! I'm Bhavesh Kumar</h1>
   <p>
     <em>Full-stack</em> developer. <em>Functional programming</em> enthusiast. Building cool things for the <em>web</em>.
     I'm currently <em>available</em> for <em>remote</em> full-time
     and freelance work.
   </p>
   <div id="contact_wrapper">
-    <a href="mailto:philip.nilsson@outlook.com"
+    <a href="mailto:Bhavkumar21@gmail.com"
       on:mouseenter={() => { excited.set(true) }}
       on:mouseleave={() => excited.set(false)}
       on:touchstart={() => excited.set(true)}
@@ -107,11 +107,11 @@
       on:touchcancel={() => excited.set(false)}
     >
       <h3 id="contact">
-        Get in touch
+        Contact Me
       </h3>
     </a>
     <a
-      href="/Philip Nilsson - Resume.pdf"
+      href="/Bhavesh_Resume.pdf"
       on:mouseenter={() => { excited.set(true) }}
       on:mouseleave={() => excited.set(false)}
       on:touchstart={() => excited.set(true)}

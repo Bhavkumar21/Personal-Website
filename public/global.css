@@ -5,12 +5,13 @@
     --blue: #3f4eff;
     --green: #44c76a;
     --yellow: #ffb786;
+    --brown: #b06c49;
     --orange: #f15c6d;
-    --black: #1f3086;
+    --black: #000000;
     --shadow: #c5d6f1;
 }
 
-html {
+html {  
     background: linear-gradient(#fff, #edf1fa 40%);
     background-repeat: repeat-x;
 }

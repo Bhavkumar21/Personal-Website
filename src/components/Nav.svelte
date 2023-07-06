@@ -42,7 +42,7 @@ svg:hover {
   on:touchend|capture={() => look.set(false)}
   on:touchcancel|capture={() => look.set(false)}    
   >
-  <a href="https://github.com/philipnilsson/">
+  <a href="https://github.com/Bhavkumar21">
     <svg
       viewBox="0 0 24 24"
       preserveAspectRatio="xMidYMid"
@@ -57,7 +57,7 @@ svg:hover {
     </svg>
   </a>
   
-  <a href="https://twitter.com/ali_pang">
+  <a href="https://www.linkedin.com/in/bhavkumar/">
     <svg
       viewBox="0 0 24 24"
       preserveAspectRatio="xMidYMid"
@@ -68,13 +68,11 @@ svg:hover {
       stroke-linecap="round"
       stroke-linejoin="round"
     >
-      <path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"/>
+      <path d="M4.98 3.5c0 1.381-1.11 2.5-2.48 2.5s-2.48-1.119-2.48-2.5c0-1.38 1.11-2.5 2.48-2.5s2.48 1.12 2.48 2.5zm.02 4.5h-5v16h5v-16zm7.982 0h-4.968v16h4.969v-8.399c0-4.67 6.029-5.052 6.029 0v8.399h4.988v-10.131c0-7.88-8.922-7.593-11.018-3.714v-2.155z"/>
     </svg>      
   </a>
   
-  <a
-    href="https://philipnilsson.github.io/Badness10k"
-  >
+  <a href="https://www.kaggle.com/bhavkumar">
     <svg
       viewBox="0 0 24 24"
       preserveAspectRatio="xMidYMid"
@@ -84,10 +82,8 @@ svg:hover {
       stroke-width="2"
       stroke-linecap="round"
       stroke-linejoin="round"
-      >
-      <path d="M4 11a9 9 0 0 1 9 9" />
-      <path d="M4 4a16 16 0 0 1 16 16" />
-      <circle cx="5" cy="19" r="1" fill="currentColor" />
-    </svg>
-  </a>  
+    >
+      <path d="M18.825 23.859c-.022.092-.117.141-.281.141h-3.139c-.187 0-.351-.082-.492-.248l-5.178-6.589-1.448 1.374v5.111c0 .235-.117.352-.351.352H5.505c-.236 0-.354-.117-.354-.352V.353c0-.233.118-.353.354-.353h2.431c.234 0 .351.12.351.353v14.343l6.203-6.272c.165-.165.33-.246.495-.246h3.239c.144 0 .236.06.285.18.046.149.034.255-.036.315l-6.555 6.344 6.836 8.507c.095.104.117.208.07.358"/>
+    </svg>      
+  </a>
 </nav>
